@@ -1,3 +1,5 @@
+📦 ProdutosAPI
+
 API RESTful desenvolvida em Java com Spring Boot para gerenciamento de produtos. Permite operações de cadastro, consulta, atualização e exclusão de produtos.
 
 🚀 Tecnologias Utilizadas
